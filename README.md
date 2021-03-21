@@ -21,6 +21,12 @@ r = narou_api.get(out="json", st=1, lim=500, order="quarterpoint")
 print(r.text)
 ```
 
+CLI
+
+```bash
+narou_api out=json st=1 lim=500 order=quarterpoint
+```
+
 ## Links
 
 - Official API Documet: https://dev.syosetu.com/man/api/
