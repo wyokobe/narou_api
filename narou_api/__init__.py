@@ -16,7 +16,7 @@ def get(**kwargs):
             is_first_loop = False
         else:
             url += "&"
-        url += k + "=" + v
+        url += f"{k}={v}"
 
     return requests.get(url)
 

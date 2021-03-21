@@ -17,7 +17,7 @@ pip install -U narou-api
 ```python
 import narou_api
 
-r = narou_api.get(out="json", st="1", lim="500", order="quarterpoint")
+r = narou_api.get(out="json", st=1, lim=500, order="quarterpoint")
 print(r.text)
 ```
 
