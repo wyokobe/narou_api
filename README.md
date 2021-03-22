@@ -31,7 +31,7 @@ narou_api get st=1 lim=5 order=new
 |get_rank|[なろう小説ランキングAPI](https://dev.syosetu.com/man/rankapi/)|
 |get_rankin|[なろう殿堂入りAPI](https://dev.syosetu.com/man/rankinapi/)|
 |get_user|[なろうユーザ検索API](https://dev.syosetu.com/man/userapi/)|
-|get_x|[なろうR18小説API](https://dev.syosetu.com/xman/api/)|
+|getx|[なろうR18小説API](https://dev.syosetu.com/xman/api/)|
 
 
 ## Links
