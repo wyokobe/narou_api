@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="narou_api",
-    version="0.0.2",
+    version="1.0.0",
     install_requires=[
         "requests",
     ],
